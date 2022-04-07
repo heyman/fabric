@@ -1,5 +1,5 @@
 import copy
-from collections import Mapping
+from collections.abc import Mapping
 from functools import partial
 import six
 import os.path
